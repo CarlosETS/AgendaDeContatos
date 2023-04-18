@@ -1,0 +1,12 @@
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\bin\Debug\Agenda de contatod.exe.config
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\bin\Debug\Agenda de contatod.exe
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\bin\Debug\Agenda de contatod.pdb
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda de contatod.csprojResolveAssemblyReference.cache
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda_de_contatod.frmContatos.resources
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda_de_contatod.FrmEmpresarial.resources
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda_de_contatod.FrmPessoal.resources
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda_de_contatod.Properties.Resources.resources
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda de contatod.csproj.GenerateResource.Cache
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda de contatod.exe
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda de contatod.pdb
+C:\Users\IFPR\Desktop\Agenda de contatos\Agenda de contatod\Agenda de contatod\obj\Debug\Agenda_de_contatod.FrmConsulta.resources
